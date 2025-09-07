@@ -8,3 +8,4 @@ Code written from CodeSnippet Tutorials (Youtube)
 6. Used @ComponentScan to scan both packages explicitly
 7. Used @ComponentScan to scan both packages by providing common base package
 8. Beans will inject by using @Configuration + @ComponentScan
+9. Used excludeFilters to exclude mentioned classes from runtime
