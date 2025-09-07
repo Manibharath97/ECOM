@@ -4,3 +4,4 @@ Code written from CodeSnippet Tutorials (Youtube)
 2. added @Service, @RestController, @RequestMapping in the application
 3. added @Configuration + @Bean annotation for dependency injection
 4. Bean checks using applicationContext by evaluating expression
+5. configured @ComponentScan to inject outside class bean of ecom package
