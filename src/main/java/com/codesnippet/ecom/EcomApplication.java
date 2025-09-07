@@ -6,7 +6,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.codesnippet.ecomassistant")
+@ComponentScan(basePackages = {"com.codesnippet.ecomassistant", "com.codesnippet.ecom"})
 public class EcomApplication {
 
 	public static void main(String[] args) {
