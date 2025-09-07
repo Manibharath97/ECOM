@@ -5,3 +5,5 @@ Code written from CodeSnippet Tutorials (Youtube)
 3. added @Configuration + @Bean annotation for dependency injection
 4. Bean checks using applicationContext by evaluating expression
 5. configured @ComponentScan to inject outside class bean of ecom package
+6. Used @ComponentScan to scan both packages explicitly
+7. Used @ComponentScan to scan both packages by providing common base package
